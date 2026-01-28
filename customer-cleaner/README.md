@@ -26,12 +26,10 @@ Uma aplicação web de alta performance desenvolvida com **Next.js 15** e **Type
 ## 🚀 Como rodar o projeto
 
 1. Clone o repositório:
-   git clone https://github.com/SEU_USUARIO/customer-cleaner.git
-
-2. Instale as dependências:
-
+   git clone https://github.com/Teagogs/Lista-de-Clientes.git
+   
+3. Instale as dependências:
     npm install
 
-3. Inicie o servidor de desenvolvimento:
-
+4. Inicie o servidor de desenvolvimento:
     npm run dev
