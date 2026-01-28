@@ -6,6 +6,8 @@ Uma aplicação web de alta performance desenvolvida com **Next.js 15** e **Type
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+Demo: https://lista-de-clientes-pink.vercel.app/
+
 ## 🌟 Diferenciais Técnicos
 
 - **Alta Performance:** Processamento de **mais de 120.000 registros em segundos** utilizando estruturas de dados otimizadas (Hash Maps/Sets) em memória.
